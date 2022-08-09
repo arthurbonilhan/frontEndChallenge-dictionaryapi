@@ -29,7 +29,10 @@
 - [x] Styled-Components
 - [x] Axios
 - [x] React Hooks
+- [x] Gestão de dados (sessionStorage)
+- [x] Design Mobile First
 - [x] WebPack
+- [x] Conceitos de Programação Funcional em JS
 
 ## Iniciando a Aplicação
 1. Rode `npm install` ou `yarn install`.<br />
